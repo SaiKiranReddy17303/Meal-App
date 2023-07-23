@@ -16,6 +16,6 @@ This is Meals app Where you can know about your favourites meals. You can search
 4. In Favourite page Display a list of all the favourite meals.
 5. Remove button: Each meal should have remove button, clicking on which should remove that meal from the favourite list.
 
-# Language used :-
+# Languages used :-
 
 Html, CSS and JavaScript .
